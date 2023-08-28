@@ -1,0 +1,3750 @@
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
+
+ Initial coordinate of point with tip load is :    0.000000000000000,	    0.400000000000000  
+
+ Deformed coordinate of point with tip load is :    0.000000000000000,	    0.399999984205685  
+
+ Displacement of the point with tip load is :    0.000000000000000,	   -0.000000015794315  
